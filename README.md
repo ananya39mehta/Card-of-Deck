@@ -15,8 +15,7 @@
 <ol>
   <li><a href="#introduction">Introduction</a></li>
   <li><a href="#methods-and-functions">Methods and Functions</a></li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#license">License</a></li>
+
 </ol>
 
 <h2 id="introduction">Introduction</h2>
