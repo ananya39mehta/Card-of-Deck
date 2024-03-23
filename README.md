@@ -45,14 +45,9 @@
   <li><code>readCard(Scanner scanner)</code>: Reads input from the user to create a card.</li>
 </ul>
 
-<h2 id="usage">Usage</h2>
-<p>To use the program, compile and run the <code>Main.java</code> file. Follow the on-screen menu to perform different operations on the card deck.</p>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>Sample Output</h2>
-<p>Sample output can be provided here.</p>
+
 
 </body>
 </html>
